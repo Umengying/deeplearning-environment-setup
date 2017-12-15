@@ -32,6 +32,7 @@ http://docs.nvidia.com/cuda/cuda-installation-guide-linux/*
         `$ sudo apt-get --purge remove <package_name>          # Ubuntu`
 
 - 4. Installation Instruction
+
         `$ sudo dpkg -i cuda-repo-<distro>_<version>_<architecture>.deb`
 
         `$ sudo apt-key add /var/cuda-repo-<version>/7fa2af80.pub`
@@ -74,3 +75,5 @@ Install cuDNN
 `$ sudo cp */libcudnn* /usr/local/cuda/lib64/`
 
 `$ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*`
+
+* 注意：如遇到装完`CUDA`之后循环登录问题，可以尝试关闭`security boot & fast boot` *
