@@ -76,4 +76,5 @@ Install cuDNN
 
 `$ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*`
 
-* 注意：如遇到装完`CUDA`之后循环登录问题，可以尝试关闭`security boot & fast boot` *
+
+*注意：如遇到装完`CUDA`之后循环登录问题，可以尝试关闭`security boot & fast boot`*
