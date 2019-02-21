@@ -85,3 +85,5 @@ Install cuDNN
 
 > https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
 
+> https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
+
