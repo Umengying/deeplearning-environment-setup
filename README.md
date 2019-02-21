@@ -83,3 +83,5 @@ Install cuDNN
 
 > https://stackoverflow.com/questions/39379792/install-cuda-without-root
 
+> https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
+
