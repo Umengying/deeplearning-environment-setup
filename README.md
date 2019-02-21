@@ -78,3 +78,8 @@ Install cuDNN
 
 
 *注意：如遇到装完`CUDA`之后循环登录问题，可以尝试关闭`security boot & fast boot`*
+
+# Install CUDA without root
+
+> https://stackoverflow.com/questions/39379792/install-cuda-without-root
+
