@@ -1,4 +1,4 @@
-# deeplearning-environment-setup
+# Deep Learning Environment Setup
 
 # 深度学习环境搭建
 
