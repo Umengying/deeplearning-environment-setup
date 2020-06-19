@@ -1,5 +1,12 @@
 # Deep Learning Environment Setup
 
+## Change source
+
+```
+https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/
+https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+```
+
 # 深度学习环境搭建
 
 装`CUDA,cuDNN`
@@ -7,7 +14,7 @@
 ## Step1
 - `$ sudo apt-get update`
 - `$ sudo apt-get upgrade`
-- `$ sudo apt-get install build-essential cmake g++ gfortran git pkg-config python-dev software-properties-common wget`
+- `$ sudo apt-get install build-essential cmake g++ gfortran git pkg-config python3-dev software-properties-common wget`
 - `$ sudo apt-get autoremove`
 - `$ sudo rm -rf /var/lib/apt/lists/*`
 
